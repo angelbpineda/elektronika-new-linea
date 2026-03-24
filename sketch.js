@@ -6,7 +6,7 @@ let isStarted = false;
 let btnX, btnY, btnWidth, btnHeight;
 let hoveredMaquina = null;
 
-const BASE_WEB = 'https://gureak365.sharepoint.com/sites/espacioaprendizajeindustrial/Documentos%20compartidos/ELEKTRONIKA/WEB/LINEA/';
+const BASE_WEB = 'assets/';
 const BASE_PAGES = 'https://gureak365.sharepoint.com/sites/espacioaprendizajeindustrial/SitePages/';
 
 function preload() {
