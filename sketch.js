@@ -31,8 +31,8 @@ function preload() {
 }
 
 function setup() {
-  //let c = createCanvas(1040, 550);
-  let c = createCanvas(1850, 550);
+  let c = createCanvas(740, 550);
+  //let c = createCanvas(1850, 550);
   c.parent('canvas-wrapper');
   
   textSize(14);
